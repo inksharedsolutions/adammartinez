@@ -18,7 +18,7 @@ const abouttheauthor= (props) =>{
 		<>
 			<span className="banr-tagline-fx">THROUGH THE RAINY SEASON</span>
 			<h1 className="banr-header-fx">
-				<span className="banr-spn-highlight" id="span-non-front">Books</span>
+				<span className="banr-spn-highlight" id="span-non-front">Book</span>
 			</h1>
 		</>
 	)

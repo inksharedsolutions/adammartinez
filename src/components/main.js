@@ -24,7 +24,7 @@ const main = () => {
 					</p>
 
 					<p>
-						New author Adam Martinez is a husband, father, world traveler, and dreamer. He writes, “I have basically made my living as a house painter, but my passion has always been writing.” 
+					I spent my adolescent years in South Carolina and traveling to over 15 countries. I earned a Bachelor of Science from Western Kentucky University and currently reside in Kentucky with my wife and four children.
 					</p>
 
 					<button className="btn-main-customize">

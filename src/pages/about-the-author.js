@@ -47,7 +47,7 @@ const abouttheauthor= (props) =>{
 					 	 <div className="column">
 					 	 	<article className="article-section">
 					 	 		<p>
-								  New author Adam Martinez is a husband, father, world traveler, and dreamer. He writes, “I have basically made my living as a house painter, but my passion has always been writing.” Adam graduated with a degree in behavioral sciences, owns a small business, and actively helps those in his community.
+								  I spent my adolescent years in South Carolina and traveling to over 15 countries. I earned a Bachelor of Science from Western Kentucky University and currently reside in Kentucky with my wife and four children.
 								</p>	
 					 	 	</article>
 					 	</div>

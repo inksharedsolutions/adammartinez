@@ -41,8 +41,8 @@ const footer = (props) => {
 							</li>
 
 							<li>
-								<Link to="/books">
-									Books
+								<Link to="/book">
+									Book
 								</Link>
 							</li>
 

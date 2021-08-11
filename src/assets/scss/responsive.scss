@@ -34,6 +34,12 @@
 
 @media only screen and (max-width: $largeBreakpoints){
 
+	.banner-ext-stream{
+		img{
+			width: 400px;
+			margin: 60px;
+		}
+	}
 
 	#main-navigation{
 		padding: 0;
@@ -58,12 +64,20 @@
 
 @media only screen and (max-width: $mediumBreakpoints ){
 
+	.author-image-container{
+		text-align: center; 
+	}
+
 	.author-name{
 		position:static !important;
 	}
 
 	.grid-blocks-nav{
 		grid-template-columns: auto;
+	}
+
+	.author-name-tagline{
+		margin-top: 30px;
 	}
 
 	#main-author-content{
@@ -73,6 +87,10 @@
 
 	.section-main-contents{
 		width: 100% !important;
+		text-align: center;
+		p{
+			text-align: justify;
+		}
 	}
 
 	.main-navigation, #main-navigation{
@@ -136,6 +154,7 @@
 	.trademark-heading{
 		p{
 			width: 100%;
+			padding: 0 30px;
 		}
 	}
 
@@ -199,7 +218,7 @@
 		li{
 			display: block !important;
 			background: #b29e46;
-			padding: 1em 2em !important;
+			padding: 0.6em 2em !important;
 		}
 	}
 	
@@ -212,6 +231,10 @@
 	// 	// margin-bottom: 50px;
 	// 	margin: 50px;
 	// }	
+
+	.containerNewsletter{
+		padding: 0 20px;
+	}
 
 	.commentSection{
 		// margin-bottom: 50px;
@@ -306,6 +329,10 @@
 		}
 	}
 
+	.contactMessage{
+		font-size: 18px !important;
+	}
+
 }
 
 
@@ -333,7 +360,9 @@
 	#terms-and-conditions-content{
 		margin: 7em 6% !important;
 	}
-
+	.contactMessage{
+		font-size: 18px !important;
+	}
 }	
 
 
@@ -342,6 +371,10 @@
 		h1{
 			font-size: 12px;
 		}
+	}
+
+	.contactMessage{
+		font-size: 18px !important;
 	}
 
 }

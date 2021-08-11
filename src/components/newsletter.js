@@ -10,11 +10,12 @@ const newsletter = () =>{
 
 					<h2 className="newsletterHeading"> Newsletter</h2>
 						<div className="containerNewsletter">
-							<form onSubmit="" >
+							<form action="https://formspree.io/f/mknkvenn"
+								method="POST" >
 								  <div className="form-group">
 								    <div className="form-text text-muted" id="pbb-letter-cont-nw">Stay up to date with the latest from me</div>
 								    <div className="input-group" id="pd-elementor-apex">
-
+										<input type="text" name="author_name" hidden/>
 										<input 
 											type='text' 
 											placeholder='Email'
