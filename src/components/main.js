@@ -27,9 +27,9 @@ const main = () => {
 					I, Adam Martinez, was born in hills of northwest Arkansas. I spent my adolescent years in South Carolina and traveling to over 15 countries. I earned a Bachelor of Science from Western Kentucky University and currently reside in Kentucky with my wife and four children.
 					</p>
 
-					<button className="btn-main-customize">
+					{/* <button className="btn-main-customize">
 						<Link to="/about-the-author#author"> Read More</Link>
-					</button>
+					</button> */}
 				</div>
 			</div>
 		</section>
