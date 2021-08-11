@@ -47,7 +47,7 @@ const abouttheauthor= (props) =>{
 					 	 <div className="column">
 					 	 	<article className="article-section">
 					 	 		<p>
-								  I spent my adolescent years in South Carolina and traveling to over 15 countries. I earned a Bachelor of Science from Western Kentucky University and currently reside in Kentucky with my wife and four children.
+								  •	I, Adam Martinez, was born in hills of northwest Arkansas. I spent my adolescent years in South Carolina and traveling to over 15 countries. I earned a Bachelor of Science from Western Kentucky University and currently reside in Kentucky with my wife and four children.
 								</p>	
 					 	 	</article>
 					 	</div>
