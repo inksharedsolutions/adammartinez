@@ -20,7 +20,7 @@ const IndexPage = () => {
 				<Link
 					key=""
 					className="btn-banner-intro" 
-					to="/books#snowbear">Read More
+					to="/book">Read More
 				</Link>
 			</h1>
 		</>
