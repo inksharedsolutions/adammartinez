@@ -71,10 +71,12 @@ class Navigation extends React.Component {
 					<div className="grid-blocks-nav">
 						<div className="grid-block-child">
 							<div className="logo-container-fx">
-								<Link to={'/'}>
-									<img src={MainLogo} />
-									{/* <h1>Adam Martinez</h1> */}
-								</Link>
+								<li>
+									<Link to={'/'}>
+										<img src={MainLogo} />
+										<h1>Adam Martinez</h1>
+									</Link>
+								</li>
 							</div>
 						</div>
 						<div className="grid-block-child align-right" id="main-navigation">
