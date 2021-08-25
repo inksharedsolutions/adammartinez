@@ -124,8 +124,9 @@
 		h1{
 		 	position: static;
 		    display: block;
+			padding-top: 0;
 		    text-align: center;
-			margin: 1em auto !important;
+			margin: 0 auto !important;
 			letter-spacing: 0;
 			font-size: 18px;
 		}
@@ -369,7 +370,7 @@
 @media only screen and (max-width:  400px ){
 	.logo-container-fx{
 		h1{
-			font-size: 12px;
+			font-size: 17px;
 		}
 	}
 
