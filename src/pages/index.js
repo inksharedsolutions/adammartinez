@@ -14,7 +14,7 @@ const IndexPage = () => {
 		<>
 			<span className="banr-tagline-fx">THROUGH THE RAINY SEASON</span>
 			<h1 className="banr-header-fx">
-				A Story <span className="banr-spn-2">Out of the Floods</span>  
+				<span className="banr-spn-2">Out of the Floods</span>  
 				<span className="banr-spn-highlight">of Addiction</span>
 
 				<Link
